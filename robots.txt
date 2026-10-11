@@ -1,0 +1,10 @@
+# https://yubinxe.github.io/ — 호스트 루트 robots.txt
+# 수집기는 호스트 루트의 robots.txt 만 읽는다. /Portfolio/robots.txt 는 참고용일 뿐 적용되지 않는다.
+User-agent: *
+Allow: /
+Disallow: /Portfolio/admin.html
+Disallow: /Portfolio/Ethan%20Kim%20Portfolio.html
+Disallow: /Portfolio/uploads/
+Disallow: /Portfolio/screenshots/
+
+Sitemap: https://yubinxe.github.io/Portfolio/sitemap.xml
