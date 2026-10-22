@@ -7,4 +7,5 @@ Disallow: /Portfolio/Ethan%20Kim%20Portfolio.html
 Disallow: /Portfolio/uploads/
 Disallow: /Portfolio/screenshots/
 
+Sitemap: https://yubinxe.github.io/sitemap.xml
 Sitemap: https://yubinxe.github.io/Portfolio/sitemap.xml
